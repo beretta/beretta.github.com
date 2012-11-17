@@ -74,13 +74,13 @@ Links from [HTML5 Boilerplate](http://j.mp/rP0wmY)
 No styleguide reference.
 */
 a {
-  color: #00e;
+  color: #065e33;
 }
 a:visited {
-  color: #551a8b;
+  color: #0b8e4e;
 }
 a:hover {
-  color: #06e;
+  color: #0b8e4e;
 }
 a:focus {
   outline: thin dotted;
@@ -116,7 +116,7 @@ hr {
   padding: 0;
 }
 ins {
-  background: #ff9;
+  background: #c5f5de;
   color: #000;
   text-decoration: none;
 }
@@ -545,16 +545,20 @@ No styleguide reference.
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
-  color: #2d2d2d;
+    background-color: #dae4df;
+    /*background-color: #e2e2de;*/
 }
 #page {
-  background: url('/assets/themes/the-program/skin/100-90-5-monochrome.png');
+  background: url("/assets/themes/the-program/skin/100-90-5-monochrome.png") repeat scroll 0 0 #dae4df;
+  /*background: url('/assets/themes/the-program/skin/Test.png');*/
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #e2e2de;
+  background-color: #dae4df;
+  /*background-color: #e2e2de;*/
 }
 .body .unit-body {
-  background-color: #fafafa;
+     background-color: #FAFAFA;
+     /*background-color: #fafafa;*/
 }
 /* LINK */
 a:link {
@@ -575,8 +579,8 @@ pre {
 }
 pre {
   color: #f2f2f2;
-  background-color: #393939;
-  border: 1px solid #393939;
+  background-color: #044c29; /*sfondo del box contente codice*/
+  border: 1px solid #044c29;
   font-family: consolas, monaco, monospace;
   margin-left: 0;
   margin-right: 0;
@@ -593,7 +597,7 @@ pre {
   font-family: UbuntuMono-B, consolas, monaco, monospace;
   margin: 0;
 }
-.the-header .logo a:visited {
+.the-header .logo  {
   color: #2d2d2d;
 }
 .the-header .nav-global {
@@ -609,11 +613,12 @@ pre {
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
-  border-bottom: 5px solid rgba(21, 25, 25, 0.8);
+  /*border-bottom: 5px solid rgba(21, 25, 25, 0.8);*/
+  border-bottom: 5px solid #044c29;  
   margin-bottom: 21px;
 }
 .unit-article header h1 {
-  color: #2d2d2d;
+  color: #065e33;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -622,14 +627,14 @@ pre {
 .unit-article .entry-content h4,
 .unit-article .entry-content h5,
 .unit-article .entry-content h6 {
-  color: #2d2d2d;
+  color: #065e33;
 }
 .unit-article .entry-content h2 a:link,
 .unit-article .entry-content h3 a:link,
 .unit-article .entry-content h4 a:link,
 .unit-article .entry-content h5 a:link,
 .unit-article .entry-content h6 a:link {
-  color: #2d2d2d;
+  color: #065e33;
   border: 0;
 }
 .unit-article .entry-content h2 a:visited,
@@ -637,7 +642,7 @@ pre {
 .unit-article .entry-content h4 a:visited,
 .unit-article .entry-content h5 a:visited,
 .unit-article .entry-content h6 a:visited {
-  color: #141414;
+  color: #0b8e4e;
   border: 0;
 }
 .unit-article .entry-content h2 a:hover,
@@ -645,7 +650,7 @@ pre {
 .unit-article .entry-content h4 a:hover,
 .unit-article .entry-content h5 a:hover,
 .unit-article .entry-content h6 a:hover {
-  color: #474747;
+  color: #0b8e4e;
   border: 0;
 }
 .unit-article .entry-content:first-child h2,
@@ -656,16 +661,17 @@ pre {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dashed #c26164;
+  border-bottom: 1px dashed #981200;
 }
 .unit-article a:visited {
-  border-bottom: 1px dashed #ad4346;
+  border-bottom: 1px dashed #de1d03;
 }
 .unit-article a:hover {
-  border-bottom: 1px dashed #d08688;
+  border-bottom: 1px dashed #de1d03;
 }
 .unit-article blockquote {
-  border-left: 1em solid rgba(21, 25, 25, 0.8);
+  /*border-left: 1em solid rgba(21, 25, 25, 0.8);*/
+  border-left: 1em solid #044c29;
   padding-left: 1em;
 }
 .unit-article blockquote p {
@@ -723,7 +729,7 @@ pre {
 .unit-article li code {
   padding: 2px 5px;
   white-space: nowrap;
-  background-color: #fff04a;
+  background-color: #3fdf92;
 }
 .unit-article img {
   display: block;
@@ -748,11 +754,11 @@ pre {
 }
 .unit-article .list-category a:hover span,
 .unit-article .list-tag a:hover span {
-  background-color: #f99157;
+  background-color: #f5bbb3;
 }
 .unit-article .list-category span,
 .unit-article .list-tag span {
-  background-color: #e25608;
+  background-color: #981200;
   padding: 1px 5px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -778,7 +784,8 @@ pre {
   border-bottom: 0;
 }
 .unit-article .unit-foot {
-  border-top: 5px solid rgba(21, 25, 25, 0.8);
+  /*border-top: 5px solid rgba(21, 25, 25, 0.8);*/
+  border-top: 5px solid #044c29;
   padding-top: 1.625em;
   position: relative;
 }
@@ -793,7 +800,7 @@ pre {
 }
 /* post & page */
 .layout-page .tag_box {
-  background: url('/assets/themes/the-program/skin/100-90-5-monochrome.png') repeat 0 0 #999999;
+  background: url('/assets/themes/the-program/skin/100-90-5-monochrome.png') repeat 0 0 #dae4df;
   padding: 0.8125em;
   list-style: none;
   -webkit-border-radius: 3px;
@@ -915,21 +922,22 @@ pre {
 }
 .the-footer {
   background-color: #1a1a1a;
-  background-color: rgba(21, 25, 25, 0.8);
-  color: #fafafa;
-  color: rgba(250, 250, 250, 0.8);
+  /*background-color: rgba(21, 25, 25, 0.8);*/
+  background: url('/assets/themes/the-program/skin/100-90-5-monochrome.png') repeat 0 0 #dae4df;
+  color: #2d2d2d;
+  /*color: rgba(250, 250, 250, 0.8);*/
   padding: 26px;
 }
 .the-footer a:link {
-  color: #c26164;
+  color: #065e33;
   border: 0;
 }
 .the-footer a:visited {
-  color: #ad4346;
+  color: #0b8e4e;
   border: 0;
 }
 .the-footer a:hover {
-  color: #d08688;
+  color: #0b8e4e;
   border: 0;
 }
 .the-footer h4 {
@@ -965,7 +973,7 @@ pre {
     height: 26px;
   }
   .the-header .unit-head .nav-global li a:hover {
-    background-color: #fff04a;
+    background-color: #3fdf92;
     color: #474747;
   }
   .the-header .unit-head .nav-global li:nth-child(2) {
@@ -1101,7 +1109,7 @@ pre .c {
 /* Comment */
 pre .err {
   color: #a61717;
-  background-color: #e3d2d2;
+  background-color: #f5bbb3;
 }
 /* Error */
 pre .g {
