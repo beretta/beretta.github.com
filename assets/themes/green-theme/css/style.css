@@ -557,8 +557,23 @@ No styleguide reference.
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
-    background-color: #548E80;
+	background-image: linear-gradient(right top, rgb(113,189,170) 16%, rgb(84,142,128) 52%, rgb(50,115,99) 85%);
+background-image: -o-linear-gradient(right top, rgb(113,189,170) 16%, rgb(84,142,128) 52%, rgb(50,115,99) 85%);
+background-image: -moz-linear-gradient(right top, rgb(113,189,170) 16%, rgb(84,142,128) 52%, rgb(50,115,99) 85%);
+background-image: -webkit-linear-gradient(right top, rgb(113,189,170) 16%, rgb(84,142,128) 52%, rgb(50,115,99) 85%);
+background-image: -ms-linear-gradient(right top, rgb(113,189,170) 16%, rgb(84,142,128) 52%, rgb(50,115,99) 85%);
+
+background-image: -webkit-gradient(
+	linear,
+	right top,
+	left bottom,
+	color-stop(0.16, rgb(113,189,170)),
+	color-stop(0.52, rgb(84,142,128)),
+	color-stop(0.85, rgb(50,115,99))
+);
+    /*background-color: #548E80;*/
 }
+
 #page {
 background-image: linear-gradient(right bottom, rgb(113,189,170) 16%, rgb(84,142,128) 52%, rgb(50,115,99) 85%);
 background-image: -o-linear-gradient(right bottom, rgb(113,189,170) 16%, rgb(84,142,128) 52%, rgb(50,115,99) 85%);
@@ -939,7 +954,7 @@ pre {
   padding: 26px;
 }
 .the-footer {
-  background-color: #548E80;
+  background-color: #327363;
 
   color: WhiteSmoke;
   padding: 26px;
