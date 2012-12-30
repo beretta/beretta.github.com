@@ -402,7 +402,7 @@ No styleguide reference.
 */
 body {
   font-family: CandelaBook, consolas, monaco, monospace;
-  font-size: 1.3em;
+  font-size: 1.25em;
   line-height: 1.625em;
 }
 /*
@@ -593,6 +593,7 @@ background-image: -webkit-gradient(
 }
 .body .unit-body {
      background-color: #F8EADB;
+	 text-align: justify;
 }
 /* LINK */
 a:link {
@@ -673,7 +674,7 @@ pre {
 .unit-article .entry-content h4,
 .unit-article .entry-content h5,
 .unit-article .entry-content h6 {
-  color:  #327363;
+  color:  #B1834C;
 }
 .unit-article .entry-content h2 a:link,
 .unit-article .entry-content h3 a:link,
