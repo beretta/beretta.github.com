@@ -474,7 +474,7 @@ strong {
   font-weight: bold;
 }
 em {
-  font-weight: bold;
+  font-weight: normal;
 }
 /*
 Color schemes
@@ -730,7 +730,8 @@ pre {
   padding-left: 0;
 }
 .unit-article ul {
-  list-style: square;
+  list-style: disc;
+  margin-left: 1em;
 }
 .unit-article ol {
   list-style: decimal;
@@ -925,7 +926,7 @@ pre {
 /* FOOTER
 ----------------------------------------------- */
 .the-footer ul {
-  list-style: square;
+  list-style: disc;
   padding-left: 1em;
 }
 .the-footer address {
