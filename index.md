@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stefano Beretta
+title: Home
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
