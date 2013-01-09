@@ -1,14 +1,8 @@
-# Jekyll-Bootstrap
+## Important!
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+This repository contains the source for my personal site.
 
-## Usage
-
-For all usage and documentation please see: <http://jekyllbootstrap.com>
-
-## Version
-
-0.2.13 - stable and versioned using [semantic versioning](http://semver.org/).
+If you want to use my design as a basis for your own site PLEASE ensure you delete all my content (i.e. data) before uploading your version to the web.
 
 ## License
 
