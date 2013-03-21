@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 ### PhD ###
 
-My PhD thesis in Computer Science was titled _Algorithms for Next Generation Sequencing Data Analysis_ and will be freely available for download from the [institutional repository](http://boa.unimib.it).  
+My PhD thesis in Computer Science was titled _Algorithms for Next Generation Sequencing Data Analysis_ and is be freely available for download from the [institutional repository](http://hdl.handle.net/10281/42355).  
 Notice that the content has been submitted to international conferences and accepted for publication.
 
 During the first year of my PhD I worked on the design of a computational model for the identification of Structural Variations between genomes using Next-Generation Sequencing data (short reads and paired-ends). The first year presentation of my PhD activity is available [here](./data/Presentation_1st_year.pdf).

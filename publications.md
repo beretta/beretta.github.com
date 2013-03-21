@@ -21,5 +21,13 @@ tagline: Supporting tagline
 
 ### Other Works ###
 
+* Anna Paola Carrieri, Stefano Beretta, Gianluca Della Vedova, Ernesto Picardi, Yuri Pirola, Raffaella Rizzi, Graziano Pesole, and Paola Bonizzoni. **An in-silico framework for comparing and validating transcripts predicted from single and paired-end reads**. *Next Generation Sequencing Workshop*, Bari, Italy, Dec. 5-7, 2012.
+
 * Yuri Pirola, Raffaella Rizzi, Stefano Beretta, Ernesto Picardi, Graziano Pesole, Gianluca Della Vedova, Paola Bonizzoni. **PIntronNext: a fast method for detecting the gene structure due to alternative splicing via ESTs, mRNAs, and RNA-Seq data**. *EURASNET Symposium on Regulation of Gene Expression through RNA Splicing*, Trieste, Italy, March 24-27, 2012.
+
+---
+
+### PhD Thesis ###
+
+* Stefano Beretta. **Algorithms for next generation sequencing data analysis**. *Università degli Studi di Milano-Bicocca*, Milano, Italy, 2013.
 
