@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 Currently I am working at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/).
 
-I have received mu Ph.D. in Computer Science in 2013 at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/), where I have received both my B.Sc. and M.Sc. degrees in Computer Science.
+I have received my Ph.D. in Computer Science in 2013 at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/), where I have received both my B.Sc. and M.Sc. degrees in Computer Science.
 
 My research activity regards Algorithms and it is focused on Bioinformatic problems. My main interests are in the design and development of combinatorial algorithms, with particular attention at biological problems. I work on the study and the realization of applications for biological sequences analysis. I am also interested in the study of computational complexity.
 

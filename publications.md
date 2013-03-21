@@ -29,5 +29,5 @@ tagline: Supporting tagline
 
 ### PhD Thesis ###
 
-* Stefano Beretta. **Algorithms for next generation sequencing data analysis**. *Università degli Studi di Milano-Bicocca*, Milano, Italy, 2013.
+* Stefano Beretta. **Algorithms for next generation sequencing data analysis**. *Univ. degli Studi di Milano-Bicocca*, Milano, Italy, 2013. [(Thesis)](http://hdl.handle.net/10281/42355)
 
