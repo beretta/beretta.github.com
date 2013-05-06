@@ -7,9 +7,9 @@ tagline: Supporting tagline
 
 ### Journals ###
 
-* Daniel Alonso-Alemany, Aurélien Barré, Beretta, Stefano, Paola Bonizzoni, Macha Nikolski, and
+* Daniel Alonso-Alemany, Aurélien Barré, Stefano Beretta, Paola Bonizzoni, Macha Nikolski, &
 Gabriel Valiente. **Further Steps in TANGO: Improved Taxonomic Assignment in Metagenomics**.
-*Bioinformatics* (2013). [(link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
+*Bioinformatics* (2013). [(Link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
 
 ---
 
