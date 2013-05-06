@@ -5,6 +5,14 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+### Journals ###
+
+* Daniel Alonso-Alemany, Aurélien Barré, Beretta, Stefano, Paola Bonizzoni, Macha Nikolski, and
+Gabriel Valiente. **Further Steps in TANGO: Improved Taxonomic Assignment in Metagenomics**.
+*Bioinformatics* (2013). [(link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
+
+---
+
 ### Conferences ###
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova & Raffaella Rizzi. **Reconstructing isoform graphs from RNA-Seq data**. In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, Philadelphia PA, USA, Oct. 4-7, 2012. [(Link)](http://dx.doi.org/10.1109/BIBM.2012.6392734) [(Presentation)](./data/Talk_BIBM_2012.pdf)
