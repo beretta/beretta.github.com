@@ -7,9 +7,13 @@ tagline: Supporting tagline
 
 ### Journals ###
 
+* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Yuri Pirola, & Raffaella Rizzi. **Modeling Alternative Splicing Variants from RNA-Seq Data with Isoform Graphs**. *Journal of Computational Biology* (2013) ahead of print. [(Link)](http://dx.doi.org/10.1089/cmb.2013.0112)
+
 * Daniel Alonso-Alemany, Aurélien Barré, Stefano Beretta, Paola Bonizzoni, Macha Nikolski, &
 Gabriel Valiente. **Further Steps in TANGO: Improved Taxonomic Assignment in Metagenomics**.
 *Bioinformatics* (2013). [(Link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
+
+* Mauro Castelli, Stefano Beretta, & Leonardo Vanneschi. **A hybrid genetic algorithm for the repetition free longest common subsequence problem**. *Operations Research Letters* Volume 41, Issue 6, November 2013, pp 644–649. [(Link)](http://dx.doi.org/10.1016/j.orl.2013.09.002)
 
 ---
 
