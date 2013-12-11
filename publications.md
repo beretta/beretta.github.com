@@ -13,7 +13,7 @@ tagline: Supporting tagline
 Gabriel Valiente. **Further Steps in TANGO: Improved Taxonomic Assignment in Metagenomics**.
 *Bioinformatics* (2013). [(Link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
 
-* Mauro Castelli, Stefano Beretta, & Leonardo Vanneschi. **A hybrid genetic algorithm for the repetition free longest common subsequence problem**. *Operations Research Letters* Volume 41, Issue 6, November 2013, pp 644–649. [(Link)](http://dx.doi.org/10.1016/j.orl.2013.09.002)
+* Mauro Castelli, Stefano Beretta, & Leonardo Vanneschi. **A hybrid genetic algorithm for the repetition free longest common subsequence problem**. *Operations Research Letters*, Vol. 41(6):644–649 (November 2013). [(Link)](http://dx.doi.org/10.1016/j.orl.2013.09.002)
 
 ---
 
