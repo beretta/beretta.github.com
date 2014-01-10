@@ -28,7 +28,7 @@ tagline: Supporting tagline
 
 * Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola.
 **Covering Pairs in Directed Acyclic Graphs**.
-In *8th International Conference on Language and Automata Theory and Applications, LATA 2014*, Madrid, Spain, March 10-14, 2014.
+In *8th International Conference on Language and Automata Theory and Applications - LATA 2014*, Madrid, Spain, March 10-14, 2014.
 (To Appear)
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
