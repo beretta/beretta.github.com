@@ -7,12 +7,12 @@ tagline: Supporting tagline
 
 ### Journals ###
 
-* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Yuri Pirola, & Raffaella Rizzi.
+* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Yuri Pirola, Raffaella Rizzi.
 **Modeling Alternative Splicing Variants from RNA-Seq Data with Isoform Graphs**.
 *Journal of Computational Biology* (2013) ahead of print.
 [(Link)](http://dx.doi.org/10.1089/cmb.2013.0112)
 
-* Daniel Alonso-Alemany, Aurélien Barré, Stefano Beretta, Paola Bonizzoni, Macha Nikolski, & Gabriel Valiente.
+* Daniel Alonso-Alemany, Aurélien Barré, Stefano Beretta, Paola Bonizzoni, Macha Nikolski, Gabriel Valiente.
 **Further Steps in TANGO: Improved Taxonomic Assignment in Metagenomics**.
 *Bioinformatics*, Vol 30(1):17-23 (2014).
 [(Link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
@@ -26,7 +26,12 @@ tagline: Supporting tagline
 
 ### Conferences ###
 
-* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova & Raffaella Rizzi.
+* Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola.
+**Covering Pairs in Directed Acyclic Graphs**.
+In *8th International Conference on Language and Automata Theory and Applications, LATA 2014*, Madrid, Spain, March 10-14, 2014.
+(to appear)
+
+* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 **Reconstructing isoform graphs from RNA-Seq data**.
 In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, Philadelphia PA, USA, Oct. 4-7, 2012.
 [(Link)](http://dx.doi.org/10.1109/BIBM.2012.6392734) [(Presentation)](./data/Talk_BIBM_2012.pdf)
@@ -35,12 +40,12 @@ In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, 
 
 ### Talks ###
 
-* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova & Raffaella Rizzi.
+* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 **Identification of Alternative Splicing variants from RNA-seq Data**.
 *Next Generation Sequencing Workshop*, Bari, Italy, Oct. 12-14, 2011.
 [(Presentation)](./data/Talk_NGS_Workshop_2011.pdf)
 
-* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova & Raffaella Rizzi.
+* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 **Alternative Splicing from RNA-seq Data without the Genome**.
 *ISMB/ECCB - 8th Special Interest Group meeting on Alternative Splicing (AS-SIG)*, Vienna, Austria, July 15-16, 2011.
 [(Poster)](./data/Poster_ASSIG_2011.pdf)
@@ -49,7 +54,7 @@ In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, 
 
 ### Other Works ###
 
-* Anna Paola Carrieri, Stefano Beretta, Gianluca Della Vedova, Ernesto Picardi, Yuri Pirola, Raffaella Rizzi, Graziano Pesole, and Paola Bonizzoni.
+* Anna Paola Carrieri, Stefano Beretta, Gianluca Della Vedova, Ernesto Picardi, Yuri Pirola, Raffaella Rizzi, Graziano Pesole, Paola Bonizzoni.
 **An in-silico framework for comparing and validating transcripts predicted from single and paired-end reads**.
 *Next Generation Sequencing Workshop*, Bari, Italy, Dec. 5-7, 2012.
 
