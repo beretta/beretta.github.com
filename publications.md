@@ -9,7 +9,7 @@ tagline: Supporting tagline
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Yuri Pirola, Raffaella Rizzi.
 **Modeling Alternative Splicing Variants from RNA-Seq Data with Isoform Graphs**.
-*Journal of Computational Biology* (2013) ahead of print.
+*Journal of Computational Biology* (2013).
 [(Link)](http://dx.doi.org/10.1089/cmb.2013.0112)
 
 * Daniel Alonso-Alemany, Aurélien Barré, Stefano Beretta, Paola Bonizzoni, Macha Nikolski, Gabriel Valiente.
@@ -29,7 +29,7 @@ tagline: Supporting tagline
 * Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola.
 **Covering Pairs in Directed Acyclic Graphs**.
 In *8th International Conference on Language and Automata Theory and Applications, LATA 2014*, Madrid, Spain, March 10-14, 2014.
-(to appear)
+(To Appear)
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 **Reconstructing isoform graphs from RNA-Seq data**.
