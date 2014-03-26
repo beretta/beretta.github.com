@@ -6,6 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 **Stefano Beretta**  
+ORCID: [0000-0003-4375-004X](http://orcid.org/0000-0003-4375-004X)
 
 <stefano.beretta@itb.cnr.it>  
 Istituto di Tecnologie Biomediche (ITB)  
