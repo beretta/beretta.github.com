@@ -26,6 +26,11 @@ tagline: Supporting tagline
 
 ### Conferences ###
 
+* Stefano Beretta, Riccardo Dondi.
+**Gene Tree Correction by Leaf Removal and Modification: Tractability and Approximability**.
+In *A. Beckmann et al. (Eds.): CiE 2014*, LNCS 8493, pp. 42-52, (2014).
+[(Link)](http://dx.doi.org/10.1007/978-3-319-08019-2_5)
+
 * Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola.
 **Covering Pairs in Directed Acyclic Graphs**.
 In *A.-H. Dediu et al. (Eds.): LATA 2014*, LNCS 8370, pp. 126-137, (2014).
