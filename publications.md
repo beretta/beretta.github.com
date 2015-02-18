@@ -7,6 +7,11 @@ tagline: Supporting tagline
 
 ### Journals ###
 
+* Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola.
+**Covering Pairs in Directed Acyclic Graphs**.
+*The Computer Journal*, (To Appear).
+[(Link)](http://dx.doi.org/10.1093/comjnl/bxu116)
+
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Yuri Pirola, Raffaella Rizzi.
 **Modeling Alternative Splicing Variants from RNA-Seq Data with Isoform Graphs**.
 *Journal of Computational Biology*, Vol. 21(1):16-40 (January 2014).

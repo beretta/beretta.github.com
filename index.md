@@ -5,7 +5,9 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Currently, I am working at [Institute for Biomedical Technologies](http://www.itb.cnr.it/), [National Research Council](http://www.cnr.it/).
+Currently, I am working at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/) as a PostDoc.
+
+I have worked from April 2013 to December 2014 at [Institute for Biomedical Technologies](http://www.itb.cnr.it/), [National Research Council](http://www.cnr.it/) as a reserch collaborator.
 
 I have received my Ph.D. in Computer Science in 2013 at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/), where I have received both my B.Sc. and M.Sc. degrees in Computer Science.
 
