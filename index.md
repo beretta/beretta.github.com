@@ -16,7 +16,8 @@ My research activity regards Algorithms and it is focused on Bioinformatic probl
 A detailed overview of my scientific activities is provided in my [Curriculum Vitae (Italian).](./data/Stefano_Beretta_CV.pdf)
 
 ---
+I am in the organizing committee of the [9th Workshop on Biomedical and Bioinformatics Challenges for Computer Science (BBC2016)](https://bbc2016workshop.wordpress.com/) which is in conjunction with the [International Conference on Computational Science (ICCS)](http://www.iccs-meeting.org/iccs2016/) that will take place on June 6st-8rd, 2015 in San Diego, California, USA.
 
-I am in the organizing committee of the [8th Workshop on Biomedical and Bioinformatics Challenges for Computer Science (BBC2015)](https://bbc2015.wordpress.com/) which is in conjunction with the [International Conference on Computational Science (ICCS)](http://www.iccs-meeting.org/iccs2015/) that will take place on June 1st-3rd, 2015 in Reykjavik, Iceland.
+I was in the organizing committee of the [8th Workshop on Biomedical and Bioinformatics Challenges for Computer Science (BBC2015)](https://bbc2015.wordpress.com/) which is in conjunction with the [International Conference on Computational Science (ICCS)](http://www.iccs-meeting.org/iccs2015/) that took place on June 1st-3rd, 2015 in Reykjavik, Iceland.
 
-I was in the organizing committee of [Computability in Europe 2013](http://cie2013.disco.unimib.it/) conference that taked place on July, 1st-5th, 2013 at the Univ. of Milano-Bicocca.
+I was in the organizing committee of [Computability in Europe 2013](http://cie2013.disco.unimib.it/) conference that took place on July, 1st-5th, 2013 at the Univ. of Milano-Bicocca.
