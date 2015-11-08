@@ -7,9 +7,14 @@ tagline: Supporting tagline
 
 ### Journals ###
 
+* Stefano Beretta, Mauro Castelli, Riccardo Dondi.
+**Correcting gene tree by removal and modification: Tractability and approximability**.
+*Journal of Discrete Algorithms*, 33:115-129 (2015).
+[(Link)](http://dx.doi.org/10.1016/j.jda.2015.03.005)
+
 * Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola.
 **Covering Pairs in Directed Acyclic Graphs**.
-*The Computer Journal*, (To Appear).
+*The Computer Journal*, 58(7):1673-1686 (2015).
 [(Link)](http://dx.doi.org/10.1093/comjnl/bxu116)
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Yuri Pirola, Raffaella Rizzi.
