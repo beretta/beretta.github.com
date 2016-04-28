@@ -7,6 +7,12 @@ tagline: Supporting tagline
 
 ### Journals ###
 
+* Stefano Beretta, Riccardo Dondi.
+**Correcting Gene Trees by Leaf Insertions: Complexity and Approximation**.
+Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Computer Science,
+*Electronic Notes in Theoretical Computer Science*, Vol 322:35-50 (2016).
+[(Link)](http://dx.doi.org/10.1016/j.entcs.2016.03.004)
+
 * Stefano Beretta, Mauro Castelli, Riccardo Dondi.
 **Correcting gene tree by removal and modification: Tractability and approximability**.
 *Journal of Discrete Algorithms*, 33:115-129 (2015).
@@ -48,8 +54,53 @@ In *A.-H. Dediu et al. (Eds.): LATA 2014*, LNCS 8370, pp. 126-137, (2014).
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 **Reconstructing isoform graphs from RNA-Seq data**.
-In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, Philadelphia PA, USA, Oct. 4-7, 2012.
+In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, Philadelphia PA, USA, Oct. 4-7, (2012).
 [(Link)](http://dx.doi.org/10.1109/BIBM.2012.6392734) [(Presentation)](./data/Talk_BIBM_2012.pdf)
+
+---
+
+### Editorials ###
+
+* Stefano Beretta, Mario Cannataro, Riccardo Dondi.
+**8th Workshop on Biomedical and Bioinformatics Challenges for Computer Science - BBC2015**.
+International Conference On Computational Science (ICCS). *Procedia Computer Science*, Vol 51:680-682, (2015).
+[(Link)](http://dx.doi.org/10.1016/j.procs.2015.05.184)
+
+---
+
+### Abstracts ###
+* Andrea Calabria, Giulio Spinozzi, Stefano Brasca, Stefano Beretta, Ivan Merelli, Fabrizio Benedicenti, Erika Tenderini, Luciano Milanesi, Eugenio Montini.
+**A New Bioinformatics Pipeline for Retroviral Integration Site Analysis in Hematopoietic Stem Cell Gene Therapy Applications**.
+In: *12th annual meeting of the Bioinformatics Italian Society (BITS)*, Milan, Italy. 2015.
+
+* Yuri Pirola, Raffaella Rizzi, Stefano Beretta, Ernesto Picardi, Graziano Pesole, Gianluca Della Vedova, Paola Bonizzoni.
+**PIntronNext: a fast method for detecting the gene structure due to alternative splicing via ESTs, mRNAs, and RNA-Seq data**.
+*EURASNET Symposium on Regulation of Gene Expression through RNA Splicing*, Trieste, Italy, March 24-27, 2012.
+
+* Stefano Beretta, Paola Bonizzoni, Raffaella Rizzi, and Gianluca Della Vedova.
+**Identification of Alternative Splicing variants from RNA-seq Data**.
+In: *Next Generation Sequencing Workshop*. Oct. 2011.
+
+* Stefano Beretta, Paola Bonizzoni, Raffaella Rizzi, and Gianluca Della Vedova.
+**Alternative Splicing from RNA-seq Data without the Genome**.
+In: *ISMB/ECCB - 8th Special Interest Group meeting on Alternative Splicing (AS-SIG)*. July 2011.
+
+---
+
+### Posters ###
+
+* Stefano Beretta, Ivan Merelli, Alessandra Mezzelani, Maria Giulia Pini, Martina Landini, Nandia Galluccio, Maria Elisabetta Raggi, Anna Marabotti, Luciano Milanesi.
+**An integrative approach to discover changes in the association of miRNA and target genes**.
+In: *12th annual meeting of the Bioinformatics Italian Society (BITS)*, Milan, Italy. 2015.
+
+* Anna Paola Carrieri, Stefano Beretta, Gianluca Della Vedova, Ernesto Picardi, Yuri Pirola, Raffaella Rizzi, Graziano Pesole, Paola Bonizzoni.
+**An in-silico framework for comparing and validating transcripts predicted from single and paired-end reads**.
+*Next Generation Sequencing Workshop*, Bari, Italy, Dec. 5-7, 2012.
+
+* Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
+**Alternative Splicing from RNA-seq Data without the Genome**.
+*ISMB/ECCB - 8th Special Interest Group meeting on Alternative Splicing (AS-SIG)*, Vienna, Austria, July 15-16, (2011).
+[(Poster)](./data/Poster_ASSIG_2011.pdf)
 
 ---
 
@@ -57,25 +108,13 @@ In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, 
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 **Identification of Alternative Splicing variants from RNA-seq Data**.
-*Next Generation Sequencing Workshop*, Bari, Italy, Oct. 12-14, 2011.
+*Next Generation Sequencing Workshop*, Bari, Italy, Oct. 12-14, (2011).
 [(Presentation)](./data/Talk_NGS_Workshop_2011.pdf)
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 **Alternative Splicing from RNA-seq Data without the Genome**.
-*ISMB/ECCB - 8th Special Interest Group meeting on Alternative Splicing (AS-SIG)*, Vienna, Austria, July 15-16, 2011.
-[(Poster)](./data/Poster_ASSIG_2011.pdf)
-
----
-
-### Other Works ###
-
-* Anna Paola Carrieri, Stefano Beretta, Gianluca Della Vedova, Ernesto Picardi, Yuri Pirola, Raffaella Rizzi, Graziano Pesole, Paola Bonizzoni.
-**An in-silico framework for comparing and validating transcripts predicted from single and paired-end reads**.
-*Next Generation Sequencing Workshop*, Bari, Italy, Dec. 5-7, 2012.
-
-* Yuri Pirola, Raffaella Rizzi, Stefano Beretta, Ernesto Picardi, Graziano Pesole, Gianluca Della Vedova, Paola Bonizzoni.
-**PIntronNext: a fast method for detecting the gene structure due to alternative splicing via ESTs, mRNAs, and RNA-Seq data**.
-*EURASNET Symposium on Regulation of Gene Expression through RNA Splicing*, Trieste, Italy, March 24-27, 2012.
+*ISMB/ECCB - 8th Special Interest Group meeting on Alternative Splicing (AS-SIG)*, Vienna, Austria, July 15-16, (2011).
+[(Presentation)](./data/Talk_ASSIG_2011.pdf)
 
 ---
 
