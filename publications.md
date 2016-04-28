@@ -33,7 +33,7 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 *Bioinformatics*, Vol 30(1):17-23 (2014).
 [(Link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
 
-* Mauro Castelli, Stefano Beretta, & Leonardo Vanneschi.
+* Mauro Castelli, Stefano Beretta, Leonardo Vanneschi.
 **A hybrid genetic algorithm for the repetition free longest common subsequence problem**.
 *Operations Research Letters*, Vol. 41(6):644–649 (November 2013).
 [(Link)](http://dx.doi.org/10.1016/j.orl.2013.09.002)
@@ -41,6 +41,10 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 ---
 
 ### Conferences ###
+
+* Stefano Beretta, Mauro Castelli, Yuliana Martínez, Luis Muñoz, Sara Silva, Leonardo Trujillo, Luciano Milanesi, Ivan Merelli
+**A Machine Learning Approach for the Integration of miRNA-target Predictions**.
+In *2016 24th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)*, IEEE, pp. 528-534, (2016).
 
 * Stefano Beretta, Riccardo Dondi.
 **Gene Tree Correction by Leaf Removal and Modification: Tractability and Approximability**.
