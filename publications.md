@@ -42,9 +42,10 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 
 ### Conferences ###
 
-* Stefano Beretta, Mauro Castelli, Yuliana Martínez, Luis Muñoz, Sara Silva, Leonardo Trujillo, Luciano Milanesi, Ivan Merelli
+* Stefano Beretta, Mauro Castelli, Yuliana Martínez, Luis Muñoz, Sara Silva, Leonardo Trujillo, Luciano Milanesi, Ivan Merelli.
 **A Machine Learning Approach for the Integration of miRNA-target Predictions**.
 In *2016 24th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)*, IEEE, pp. 528-534, (2016).
+[(Link)](http://dx.doi.org/10.1109/PDP.2016.125)
 
 * Stefano Beretta, Riccardo Dondi.
 **Gene Tree Correction by Leaf Removal and Modification: Tractability and Approximability**.
