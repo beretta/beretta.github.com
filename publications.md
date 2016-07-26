@@ -7,6 +7,11 @@ tagline: Supporting tagline
 
 ### Journals ###
 
+* Stefano Beretta, Mauro Castelli, Riccardo Dondi.
+**Parameterized tractability of the maximum-duo preservation string mapping problem**.
+*Theoretical Computer Science*, (2016).
+[(Link)](http://dx.doi.org/10.1016/j.tcs.2016.07.011)
+
 * Stefano Beretta, Riccardo Dondi.
 **Correcting Gene Trees by Leaf Insertions: Complexity and Approximation**.
 Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Computer Science,
