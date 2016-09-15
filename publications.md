@@ -6,10 +6,14 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Journals ###
+* Ivan Kel, Zisong Chang, Nadia Galluccio, Margherita Romeo, Stefano Beretta, Luisa Diomede, Alessandra Mezzelani, Luciano Milanesi, Christoph Dieterich, Ivan Merelli.
+**SPIRE: a modular pipeline for eQTL analysis of RNA-Seq data reveals a regulatory hotspot controlling miRNA expression**.
+*Molecular BioSystems*, (2016), in press.
+[(Link)](http://dx.doi.org/10.1039/C6MB00453A)
 
 * Stefano Beretta, Mauro Castelli, Riccardo Dondi.
 **Parameterized tractability of the maximum-duo preservation string mapping problem**.
-*Theoretical Computer Science*, (2016).
+*Theoretical Computer Science*, Vol 646:16-25 (2016).
 [(Link)](http://dx.doi.org/10.1016/j.tcs.2016.07.011)
 
 * Stefano Beretta, Riccardo Dondi.
@@ -47,6 +51,11 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 
 ### Conferences ###
 
+* Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Kel, Ivan Merelli.
+**A Logistic Model Tree Based Approach For eQTL Data Prediction Integration**.
+In *Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB): 13th International Meeting*, Stirling, UK, Sept 1-3, (2016).
+(in press)
+
 * Stefano Beretta, Mauro Castelli, Yuliana Martínez, Luis Muñoz, Sara Silva, Leonardo Trujillo, Luciano Milanesi, Ivan Merelli.
 **A Machine Learning Approach for the Integration of miRNA-target Predictions**.
 In *2016 24th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)*, IEEE, pp. 528-534, (2016).
@@ -71,6 +80,11 @@ In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, 
 
 ### Editorials ###
 
+* Stefano Beretta, Mario Cannataro, Mauro Castelli.
+**9th Workshop on Biomedical and Bioinformatics Challenges for Computer Science - BBC2016**.
+International Conference On Computational Science (ICCS). *Procedia Computer Science*, Vol 80:962-964, (2016).
+[(Link)](http://dx.doi.org/10.1016/j.procs.2016.05.390)
+
 * Stefano Beretta, Mario Cannataro, Riccardo Dondi.
 **8th Workshop on Biomedical and Bioinformatics Challenges for Computer Science - BBC2015**.
 International Conference On Computational Science (ICCS). *Procedia Computer Science*, Vol 51:680-682, (2015).
@@ -79,6 +93,13 @@ International Conference On Computational Science (ICCS). *Procedia Computer Sci
 ---
 
 ### Abstracts ###
+
+* Stefano Beretta, Yuri Pirola, Valeria Ranzani, Grazisa Rossetti, Raoul Bonnal, Raffaella Rizzi, Gianluca Della Vedova, Massimiliano Pagani, Paola Bonizzoni.
+**A tool for the comparison of transcript differential expression analysis pipelines**.
+In: *13th annual meeting of the Bioinformatics Italian Society (BITS)*, Univ. of Salerno, Italy, June 2016.
+*PeerJ Preprints* 4 (July 2016), e2212v1.
+[(Link)](http://dx.doi.org/10.7287/peerj.preprints.2212v1)
+
 * Andrea Calabria, Giulio Spinozzi, Stefano Brasca, Stefano Beretta, Ivan Merelli, Fabrizio Benedicenti, Erika Tenderini, Luciano Milanesi, Eugenio Montini.
 **A New Bioinformatics Pipeline for Retroviral Integration Site Analysis in Hematopoietic Stem Cell Gene Therapy Applications**.
 In: *12th annual meeting of the Bioinformatics Italian Society (BITS)*, Milan, Italy. 2015.
