@@ -8,8 +8,13 @@ tagline: Supporting tagline
 ### Journals ###
 * Ivan Kel, Zisong Chang, Nadia Galluccio, Margherita Romeo, Stefano Beretta, Luisa Diomede, Alessandra Mezzelani, Luciano Milanesi, Christoph Dieterich, Ivan Merelli.
 **SPIRE: a modular pipeline for eQTL analysis of RNA-Seq data reveals a regulatory hotspot controlling miRNA expression**.
-*Molecular BioSystems*, (2016), in press.
+*Molecular BioSystems*, Vol 12(11):3447-3458 (2016).
 [(Link)](http://dx.doi.org/10.1039/C6MB00453A)
+
+* Stefano Beretta, Mauro Castelli, Riccardo Dondi.
+**Corrigendum to "Parameterized tractability of the maximum-duo preservation string mapping problem"**.
+*Theoretical Computer Science*, Vol 653:108-110 (2016).
+[(Link)](http://dx.doi.org/10.1016/j.tcs.2016.09.015)
 
 * Stefano Beretta, Mauro Castelli, Riccardo Dondi.
 **Parameterized tractability of the maximum-duo preservation string mapping problem**.
