@@ -99,6 +99,12 @@ International Conference On Computational Science (ICCS). *Procedia Computer Sci
 
 ### Abstracts ###
 
+* Andrea Calabria, Stefano Beretta, Ivan Merelli, Giulio Spinozzi, Stefano Brasca, Fabrizio Benedicenti, Erika Tenderini, Alessandra Biffi, Eugenio Montini.
+**New Graph-Based Algorithm for Comprehensive Identification and Tracking Retroviral Integration Sites**.
+In: *19th Annual Meeting of the American-Society-of-Gene-and-Cell-Therapy (ASGCT)*, Washington, DC, May 2016.
+*MOLECULAR THERAPY* Vol 24:S214-S215.
+[(Link)](http://www.nature.com/mt/journal/v24/n1s/pdf/mt201678a.pdf)
+
 * Stefano Beretta, Yuri Pirola, Valeria Ranzani, Grazisa Rossetti, Raoul Bonnal, Raffaella Rizzi, Gianluca Della Vedova, Massimiliano Pagani, Paola Bonizzoni.
 **A tool for the comparison of transcript differential expression analysis pipelines**.
 In: *13th annual meeting of the Bioinformatics Italian Society (BITS)*, Univ. of Salerno, Italy, June 2016.
