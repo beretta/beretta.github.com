@@ -56,10 +56,10 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 
 ### Conferences ###
 
-* Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Kel, Ivan Merelli.
-**A Logistic Model Tree Based Approach For eQTL Data Prediction Integration**.
-In *Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB): 13th International Meeting*, Stirling, UK, Sept 1-3, (2016).
-(in press)
+* Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Merelli, Daniele Ramazzotti.
+**Combining Bayesian Approaches and Evolutionary Techniques for the Inference of Breast Cancer Networks**.
+In *Proceedings of the 8th International Joint Conference on Computational Intelligence (IJCCI)*. pp. 217-224, (2016).
+[(Link)](http://dx.doi.org/10.5220/0006064102170224)
 
 * Stefano Beretta, Mauro Castelli, Yuliana Martínez, Luis Muñoz, Sara Silva, Leonardo Trujillo, Luciano Milanesi, Ivan Merelli.
 **A Machine Learning Approach for the Integration of miRNA-target Predictions**.
@@ -98,6 +98,10 @@ International Conference On Computational Science (ICCS). *Procedia Computer Sci
 ---
 
 ### Abstracts ###
+
+* Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Kel, Ivan Merelli.
+**A Logistic Model Tree Based Approach For eQTL Data Prediction Integration**.
+In *Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB): 13th International Meeting*, Stirling, UK, Sept 1-3, (2016).
 
 * Andrea Calabria, Stefano Beretta, Ivan Merelli, Giulio Spinozzi, Stefano Brasca, Fabrizio Benedicenti, Erika Tenderini, Alessandra Biffi, Eugenio Montini.
 **New Graph-Based Algorithm for Comprehensive Identification and Tracking Retroviral Integration Sites**.
