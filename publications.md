@@ -56,6 +56,11 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 
 ### Conferences ###
 
+* Stefano Beretta, Lucia Morganti, Elena Corni, Andrea Ferraro, Daniele Cesini, Daniele D'Agostino, Luciano Milanesi, Ivan Merelli.
+**Low-Power Architectures for miRNA-Target Genome Wide Analysis**.
+In *2017 25th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)*, IEEE, pp. 309-312, (2017).
+[(Link)](http://dx.doi.org/10.1109/PDP.2017.88)
+
 * Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Merelli, Daniele Ramazzotti.
 **Combining Bayesian Approaches and Evolutionary Techniques for the Inference of Breast Cancer Networks**.
 In *Proceedings of the 8th International Joint Conference on Computational Intelligence (IJCCI)*. pp. 217-224, (2016).
