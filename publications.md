@@ -56,6 +56,11 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 
 ### Conferences ###
 
+* Stefano Beretta, Paola Bonizzoni, Luca Denti, Marco Previtali, Raffaella Rizzi.
+**Mapping RNA-seq Data to a Transcript Graph via Approximate Pattern Matching to a Hypertext**.
+In *Algorithms for Computational Biology - 4th International Conference, AlCoB 2017, Aveiro, Portugal*, pp. 49-61, (2017).
+[(Link)](http://dx.doi.org/10.1007/978-3-319-58163-7_3)
+
 * Stefano Beretta, Lucia Morganti, Elena Corni, Andrea Ferraro, Daniele Cesini, Daniele D'Agostino, Luciano Milanesi, Ivan Merelli.
 **Low-Power Architectures for miRNA-Target Genome Wide Analysis**.
 In *2017 25th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)*, IEEE, pp. 309-312, (2017).
