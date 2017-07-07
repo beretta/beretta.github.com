@@ -61,6 +61,11 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 In *Algorithms for Computational Biology - 4th International Conference, AlCoB 2017, Aveiro, Portugal*, pp. 49-61, (2017).
 [(Link)](http://dx.doi.org/10.1007/978-3-319-58163-7_3)
 
+* Stefano Beretta, Carlo Maj, Ivan Merelli.
+**Rank miRNA: a web tool for identifying polymorphisms altering miRNA target sites**.
+In *BBC2017 Workshop - International Conference on Computational Science (ICCS)*, Procedia Computer Science, Vol 108:1125-1134, (2017).
+[(Link)](http://dx.doi.org/10.1016/j.procs.2017.05.189)
+
 * Stefano Beretta, Lucia Morganti, Elena Corni, Andrea Ferraro, Daniele Cesini, Daniele D'Agostino, Luciano Milanesi, Ivan Merelli.
 **Low-Power Architectures for miRNA-Target Genome Wide Analysis**.
 In *2017 25th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)*, IEEE, pp. 309-312, (2017).
