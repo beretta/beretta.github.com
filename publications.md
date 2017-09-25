@@ -6,6 +6,11 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Journals ###
+* Daniela Cesana, Francesca R. Santoni de Sio, Laura Rudilosso, Pierangela Gallina, Andrea Calabria, Stefano Beretta, Ivan Merelli, Elena Bruzzesi, Laura Passerini, Silvia Nozza, Elisa Vicenzi, Guido Poli, Silvia Gregori, Giuseppe Tambussi, Eugenio Montini.
+**HIV-1-mediated insertional activation of STAT5B and BACH2 trigger viral reservoir in T regulatory cells**.
+*Nature Communications*, Vol 8: 498 (2017).
+[(Link)](https://dx.doi.org/10.1038/s41467-017-00609-1)
+
 * Ivan Kel, Zisong Chang, Nadia Galluccio, Margherita Romeo, Stefano Beretta, Luisa Diomede, Alessandra Mezzelani, Luciano Milanesi, Christoph Dieterich, Ivan Merelli.
 **SPIRE: a modular pipeline for eQTL analysis of RNA-Seq data reveals a regulatory hotspot controlling miRNA expression**.
 *Molecular BioSystems*, Vol 12(11):3447-3458 (2016).
