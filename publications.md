@@ -6,40 +6,45 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Journals ###
+* Giulio Spinozzi, Andrea Calabria, Stefano Brasca, Stefano Beretta, Ivan Merelli, Luciano Milanesi, Eugenio Montini.
+**VISPA2: a scalable pipeline for high-throughput identification and annotation of vector integration sites**.
+*BMC Bioinformatics*, Vol. 18:520 (2017).
+[(Link)](https://dx.doi.org/10.1186/s12859-017-1937-9)
+
 * Daniela Cesana, Francesca R. Santoni de Sio, Laura Rudilosso, Pierangela Gallina, Andrea Calabria, Stefano Beretta, Ivan Merelli, Elena Bruzzesi, Laura Passerini, Silvia Nozza, Elisa Vicenzi, Guido Poli, Silvia Gregori, Giuseppe Tambussi, Eugenio Montini.
 **HIV-1-mediated insertional activation of STAT5B and BACH2 trigger viral reservoir in T regulatory cells**.
-*Nature Communications*, Vol 8: 498 (2017).
+*Nature Communications*, Vol. 8:498 (2017).
 [(Link)](https://dx.doi.org/10.1038/s41467-017-00609-1)
 
 * Ivan Kel, Zisong Chang, Nadia Galluccio, Margherita Romeo, Stefano Beretta, Luisa Diomede, Alessandra Mezzelani, Luciano Milanesi, Christoph Dieterich, Ivan Merelli.
 **SPIRE: a modular pipeline for eQTL analysis of RNA-Seq data reveals a regulatory hotspot controlling miRNA expression**.
-*Molecular BioSystems*, Vol 12(11):3447-3458 (2016).
+*Molecular BioSystems*, Vol. 12(11):3447-3458 (2016).
 [(Link)](http://dx.doi.org/10.1039/C6MB00453A)
 
 * Stefano Beretta, Mauro Castelli, Riccardo Dondi.
 **Corrigendum to "Parameterized tractability of the maximum-duo preservation string mapping problem"**.
-*Theoretical Computer Science*, Vol 653:108-110 (2016).
+*Theoretical Computer Science*, Vol. 653:108-110 (2016).
 [(Link)](http://dx.doi.org/10.1016/j.tcs.2016.09.015)
 
 * Stefano Beretta, Mauro Castelli, Riccardo Dondi.
 **Parameterized tractability of the maximum-duo preservation string mapping problem**.
-*Theoretical Computer Science*, Vol 646:16-25 (2016).
+*Theoretical Computer Science*, Vol. 646:16-25 (2016).
 [(Link)](http://dx.doi.org/10.1016/j.tcs.2016.07.011)
 
 * Stefano Beretta, Riccardo Dondi.
 **Correcting Gene Trees by Leaf Insertions: Complexity and Approximation**.
 Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Computer Science,
-*Electronic Notes in Theoretical Computer Science*, Vol 322:35-50 (2016).
+*Electronic Notes in Theoretical Computer Science*, Vol. 322:35-50 (2016).
 [(Link)](http://dx.doi.org/10.1016/j.entcs.2016.03.004)
 
 * Stefano Beretta, Mauro Castelli, Riccardo Dondi.
 **Correcting gene tree by removal and modification: Tractability and approximability**.
-*Journal of Discrete Algorithms*, 33:115-129 (2015).
+*Journal of Discrete Algorithms*, Vol. 33:115-129 (2015).
 [(Link)](http://dx.doi.org/10.1016/j.jda.2015.03.005)
 
 * Niko Beerenwinkel, Stefano Beretta, Paola Bonizzoni, Riccardo Dondi, Yuri Pirola.
 **Covering Pairs in Directed Acyclic Graphs**.
-*The Computer Journal*, 58(7):1673-1686 (2015).
+*The Computer Journal*, Vol. 58(7):1673-1686 (2015).
 [(Link)](http://dx.doi.org/10.1093/comjnl/bxu116)
 
 * Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Yuri Pirola, Raffaella Rizzi.
@@ -49,7 +54,7 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 
 * Daniel Alonso-Alemany, Aurélien Barré, Stefano Beretta, Paola Bonizzoni, Macha Nikolski, Gabriel Valiente.
 **Further Steps in TANGO: Improved Taxonomic Assignment in Metagenomics**.
-*Bioinformatics*, Vol 30(1):17-23 (2014).
+*Bioinformatics*, Vol. 30(1):17-23 (2014).
 [(Link)](http://dx.doi.org/10.1093/bioinformatics/btt256)
 
 * Mauro Castelli, Stefano Beretta, Leonardo Vanneschi.
