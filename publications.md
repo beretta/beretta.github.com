@@ -178,9 +178,17 @@ In: *ISMB/ECCB - 8th Special Interest Group meeting on Alternative Splicing (AS-
 
 ### Posters ###
 
+* Stefano Beretta, Valentina Giansanti, Carlo Maj, Mauro Castelli, Ivo Gonçalves, and Ivan Merelli.
+**HappyMirna: a Library to Integrate miRNA-Target Predictions using Machine Learning Techniques**.
+In: *Intelligent Systems for Molecular Biology (ISBM)*, Chicago, USA, 2018.
+
+* Luca Denti, Raffaella Rizzi, Stefano Beretta, Gianluca Della Vedova, Marco Previtali, and Paola Bonizzoni.
+**ASGAL: Aligning RNA-Seq Data to a Splicing Graph to Detect Novel Alternative Splicing Events**.
+In: *Research in Computational Molecular Biology (RECOMB)*, Paris, France, 2018.
+
 * Stefano Beretta, Ivan Merelli, Alessandra Mezzelani, Maria Giulia Pini, Martina Landini, Nandia Galluccio, Maria Elisabetta Raggi, Anna Marabotti, Luciano Milanesi.
 **An integrative approach to discover changes in the association of miRNA and target genes**.
-In: *12th annual meeting of the Bioinformatics Italian Society (BITS)*, Milan, Italy. 2015.
+In: *12th annual meeting of the Bioinformatics Italian Society (BITS)*, Milan, Italy, 2015.
 
 * Anna Paola Carrieri, Stefano Beretta, Gianluca Della Vedova, Ernesto Picardi, Yuri Pirola, Raffaella Rizzi, Graziano Pesole, Paola Bonizzoni.
 **An in-silico framework for comparing and validating transcripts predicted from single and paired-end reads**.
