@@ -6,6 +6,20 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Journals ###
+* Stefano Beretta, Murray D. Patterson, Simone Zaccaria, Gianluca Della Vedova, and Paola Bonizzoni.
+**HapCHAT: adaptive haplotype assembly for efficiently leveraging high coverage in long reads**.
+*BMC Bioinformatics*, Vol. 19(1):252, (2018).
+[(Link)](https://dx.doi.org/10.1186/s12859-018-2253-8)
+
+* Stefano Beretta, Mauro Castelli, Luis Mu&ntilde;oz, Leonardo Trujillo, Yuliana Martinez, Ales Popovic, Luciano Milanesi, and Ivan Merelli.
+**A Scalable Genetic Programming Approach to Integrate miRNA-Target Predictions: Comparing Different Parallel Implementations of M3GP**.
+*Complexity*, Vol. 2018, (2018).
+[(Link)](https://dx.doi.org/10.1155/2018/4963139)
+
+* Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Kel, Valentina Giansanti, and Ivan Merelli.
+**Improving eQTL Analysis using a Machine Learning Approach for Data Integration: a Logistic Model Tree Solution**.
+*Journal of Computational Biology*, In press. (2018).
+
 * Giulio Spinozzi, Andrea Calabria, Stefano Brasca, Stefano Beretta, Ivan Merelli, Luciano Milanesi, Eugenio Montini.
 **VISPA2: a scalable pipeline for high-throughput identification and annotation of vector integration sites**.
 *BMC Bioinformatics*, Vol. 18:520 (2017).
@@ -65,6 +79,10 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 ---
 
 ### Conferences ###
+* Valentina Giansanti, Daniele D’Agostino, Carlo Maj, Stefano Beretta, and Ivan Merelli.
+**Computing Empirical P-Values for Estimating Gene-Gene Interactions in Genome-Wide Association Studies: A Parallel Computing Approach**.
+In *2018 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)*, IEEE, pp. 406–409, (2018).
+[(Link)](http://dx.doi.org/10.1109/PDP2018.2018.00071)
 
 * Stefano Beretta, Paola Bonizzoni, Luca Denti, Marco Previtali, Raffaella Rizzi.
 **Mapping RNA-seq Data to a Transcript Graph via Approximate Pattern Matching to a Hypertext**.
