@@ -6,19 +6,30 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Journals ###
+* Luca Denti, Raffaella Rizzi, Stefano Beretta, Gianluca Della Vedova, Marco Previtali, and Paola Bonizzoni
+**ASGAL: aligning RNA-Seq data to a splicing graph to detect novel alternative splicing events**.
+*BMC Bioinformatics*, Vol. 19(1):444, (2018).
+[(Link)](https://dx.doi.org/10.1186/s12859-018-2436-3)
+
 * Stefano Beretta, Murray D. Patterson, Simone Zaccaria, Gianluca Della Vedova, and Paola Bonizzoni.
 **HapCHAT: adaptive haplotype assembly for efficiently leveraging high coverage in long reads**.
 *BMC Bioinformatics*, Vol. 19(1):252, (2018).
 [(Link)](https://dx.doi.org/10.1186/s12859-018-2253-8)
 
-* Stefano Beretta, Mauro Castelli, Luis Mu&ntilde;oz, Leonardo Trujillo, Yuliana Martinez, Ales Popovic, Luciano Milanesi, and Ivan Merelli.
-**A Scalable Genetic Programming Approach to Integrate miRNA-Target Predictions: Comparing Different Parallel Implementations of M3GP**.
-*Complexity*, Vol. 2018, (2018).
-[(Link)](https://dx.doi.org/10.1155/2018/4963139)
+* Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Roberto Henriques, and Daniele Ramazzotti.
+**Learning the Structure of Bayesian Networks: A Quantitative Assessment of the Effect of Different Algorithmic Schemes**.
+*Complexity*, Vol. 2018, Article ID 1591878, (2018).
+[(Link)](https://dx.doi.org/10.1155/2018/1591878)
 
 * Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Kel, Valentina Giansanti, and Ivan Merelli.
 **Improving eQTL Analysis using a Machine Learning Approach for Data Integration: a Logistic Model Tree Solution**.
-*Journal of Computational Biology*, In press. (2018).
+*Journal of Computational Biology*, Vol.25(10):1091-1105, (2018).
+[(Link)](https://dx.doi.org/10.1089/cmb.2017.0167)
+
+* Stefano Beretta, Mauro Castelli, Luis Mu&ntilde;oz, Leonardo Trujillo, Yuliana Martinez, Ales Popovic, Luciano Milanesi, and Ivan Merelli.
+**A Scalable Genetic Programming Approach to Integrate miRNA-Target Predictions: Comparing Different Parallel Implementations of M3GP**.
+*Complexity*, Vol. 2018, Article ID 4963139, (2018).
+[(Link)](https://dx.doi.org/10.1155/2018/4963139)
 
 * Giulio Spinozzi, Andrea Calabria, Stefano Brasca, Stefano Beretta, Ivan Merelli, Luciano Milanesi, Eugenio Montini.
 **VISPA2: a scalable pipeline for high-throughput identification and annotation of vector integration sites**.
