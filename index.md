@@ -5,11 +5,13 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Currently, I am working at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/) as a PostDoc.
+Currently, I'm working as a bioinformatician at the [San Raffaele Telethon Institute for Gene Therapy (TIGET)](https://www.hsr.it/ricerca/struttura/sr-tiget/).
 
-I have worked from April 2013 to December 2014 at [Institute for Biomedical Technologies](http://www.itb.cnr.it/), [National Research Council](http://www.cnr.it/) as a reserch collaborator.
+From January 2015 to December 2018 I worked as a PostDoc at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/).
 
-I have received my Ph.D. in Computer Science in 2013 at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/), where I have received both my B.Sc. and M.Sc. degrees in Computer Science.
+From April 2013 to December 2014 I worked as a research collaborator at [Institute for Biomedical Technologies](http://www.itb.cnr.it/), [National Research Council](http://www.cnr.it/).
+
+I received my Ph.D. in Computer Science in 2013 at [DISCo (Dipartimento Informatica, Sistemistica e Comunicazione)](http://www.disco.unimib.it/), [Università degli Studi di Milano – Bicocca](http://www.unimib.it/), where I have received both my B.Sc. and M.Sc. degrees in Computer Science.
 
 My research activity regards Algorithms and it is focused on Bioinformatic problems. My main interests are in the design and development of combinatorial algorithms, with particular attention at biological problems. I work on the study and the realization of applications for biological sequences analysis. I am also interested in the study of computational complexity.
 
