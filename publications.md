@@ -6,6 +6,21 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Journals ###
+* Raffaella Rizzi, Stefano Beretta, Murray Patterson, Yuri Pirola, Marco Previtali, Gianluca Della Vedova, Paola Bonizzoni.
+**Overlap graphs and de Bruijn graphs: data structures for de novo genome assembly in the big data era**.
+*Quantitative Biology*, Vol. 7:278–292, (2019).
+[(Link)](https://doi.org/10.1007/s40484-019-0181-x)
+
+* Andrea Calabria, Stefano Beretta, Ivan Merelli, Giulio Spinozzi, Stefano Brasca, Yuri Pirola, Fabrizio Benedicenti, Erika Tenderini, Paola Bonizzoni, Luciano Milanesi, Eugenio Montini.
+**γ-TRIS: a graph-algorithm for comprehensive identification of vector genomic insertion sites**.
+*Bioinformatics*, btz747, (2019).
+[(Link)](https://doi.org/10.1093/bioinformatics/btz747)
+
+* Giulia Schiroli, Anastasia Conti, Samuele Ferrari, Lucrezia della Volpe, Aurelien Jacob, Luisa Albano, Stefano Beretta, Andrea Calabria, Valentina Vavassori, Patrizia Gasparini, Eralda Salataj, Delphine Ndiaye-Lobry, Chiara Brombin, Julie Chaumeil, Eugenio Montini, Ivan Merelli, Pietro Genovese, Luigi Naldini, Raffaella Di Micco.
+**Precise gene editing preserves hematopoietic stem cell function following transient p53-mediated DNA damage response**.
+*Cell Stem Cell*, Vol. 24(4):551-565, (2019).
+[(Link)](https://doi.org/10.1016/j.stem.2019.02.019)
+
 * Luca Denti, Raffaella Rizzi, Stefano Beretta, Gianluca Della Vedova, Marco Previtali, and Paola Bonizzoni
 **ASGAL: aligning RNA-Seq data to a splicing graph to detect novel alternative splicing events**.
 *BMC Bioinformatics*, Vol. 19(1):444, (2018).
