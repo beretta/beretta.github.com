@@ -13,7 +13,7 @@ tagline: Supporting tagline
 
 * Andrea Calabria, Stefano Beretta, Ivan Merelli, Giulio Spinozzi, Stefano Brasca, Yuri Pirola, Fabrizio Benedicenti, Erika Tenderini, Paola Bonizzoni, Luciano Milanesi, Eugenio Montini.
 **γ-TRIS: a graph-algorithm for comprehensive identification of vector genomic insertion sites**.
-*Bioinformatics*, btz747, (2019).
+*Bioinformatics*, Vol. 36(5):1622-1624, (2019).
 [(Link)](https://doi.org/10.1093/bioinformatics/btz747)
 
 * Giulia Schiroli, Anastasia Conti, Samuele Ferrari, Lucrezia della Volpe, Aurelien Jacob, Luisa Albano, Stefano Beretta, Andrea Calabria, Valentina Vavassori, Patrizia Gasparini, Eralda Salataj, Delphine Ndiaye-Lobry, Chiara Brombin, Julie Chaumeil, Eugenio Montini, Ivan Merelli, Pietro Genovese, Luigi Naldini, Raffaella Di Micco.
