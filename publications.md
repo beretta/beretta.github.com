@@ -105,9 +105,19 @@ Proceedings of \{ICTCS\} 2015, the 16th Italian Conference on Theoretical Comput
 ---
 
 ### Conferences ###
+* Valentina Giansanti, Mauro Castelli, Stefano Beretta, Ivan Merelli.
+**Comparing Deep and Machine Learning Approaches in Bioinformatics: A miRNA-Target Prediction Case Study**.
+In. *International Conference on Computational Science (ICCS)*, LNCS, pp. 31-44, (2019).
+[(Link)](http://dx.doi.org/10.1007/978-3-030-22744-9_3)
+
+* Valentina Giansanti, Stefano Beretta, Daniele Cesini, Daniele D'Agostino, Ivan Merelli.
+**Parallel Computing in Deep Learning: Bioinformatics Case Studiesa**.
+In *2019 27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)*, IEEE. pp. 329-333, (2018).
+[(Link)](http://dx.doi.org/10.1109/EMPDP.2019.8671556)
+
 * Valentina Giansanti, Daniele D’Agostino, Carlo Maj, Stefano Beretta, and Ivan Merelli.
 **Computing Empirical P-Values for Estimating Gene-Gene Interactions in Genome-Wide Association Studies: A Parallel Computing Approach**.
-In *2018 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)*, IEEE, pp. 406–409, (2018).
+In *2018 26th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)*, IEEE, pp. 406–409, (2018).
 [(Link)](http://dx.doi.org/10.1109/PDP2018.2018.00071)
 
 * Stefano Beretta, Paola Bonizzoni, Luca Denti, Marco Previtali, Raffaella Rizzi.
