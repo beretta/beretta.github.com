@@ -6,6 +6,12 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Journals ###
+
+* Samuele Ferrari, Aurelien Jacob, Stefano Beretta, Giulia Unali, Luisa Albano, Valentina Vavassori, Davide Cittaro, Dejan Lazarevic, Chiara Brombin, Federica Cugnata, Anna Kajaste-Rudnitski, Ivan Merelli, Pietro Genovese, Luigi Naldini
+**Efficient gene editing of human long-term hematopoietic stem cells validated by clonal tracking**.
+* Nature Biotechnology*, (2020).
+[(Link)](https://doi.org/10.1038/s41587-020-0551-y)
+
 * Raffaella Rizzi, Stefano Beretta, Murray Patterson, Yuri Pirola, Marco Previtali, Gianluca Della Vedova, Paola Bonizzoni.
 **Overlap graphs and de Bruijn graphs: data structures for de novo genome assembly in the big data era**.
 *Quantitative Biology*, Vol. 7:278–292, (2019).
@@ -177,6 +183,32 @@ International Conference On Computational Science (ICCS). *Procedia Computer Sci
 ---
 
 ### Abstracts ###
+
+* Aurelien Jacob, Samuele Ferrari, Stefano Beretta, Giulia Unali, Luisa Albano, Valentina Vavassori, Davide Cittaro, Dejan Lazarevic, Chiara Brombin, Federica Cugnata, Anna Kajaste-Rudnitski
+**Clonal Tracking Uncovers Barriers and Validates New Strategies to Enhance Gene Editing in Human Hematopoietic Stem Cells**.
+In *MOLECULAR THERAPY*, Vol. 28, no. 4, pp. 4-5, 2020.
+
+* Valentina Gambacorta, Daniela Gnani, Laura Zito, Stefano Beretta, Lucia Zanotti, Oliveira Giacomo,  Davide Cittaro, Ivan Merelli, Fabio Ciceri, Raffaella Di Micco, Luca Vago.
+**Integrated Epigenetic Profiling Identifies EZH2 As a Therapeutic Target to Re-Establish Immune Recognition of Leukemia Relapses with Loss of HLA Class II Expression**.
+In *Blood*, Vol 134 (Supplement_1), p. 514, November 2019.
+(Link)](https://doi.org/10.1182/blood-2019-127395)
+
+* Matteo Maria Naldini, Gabriele Casirati, Matteo Barcella, Stefano Beretta, Ivan Merelli, Carolina Caserta, Giacomo Desantis, Francesca Pavesi, Fabio Ciceri, Bernhard Gentner.
+**Longitudinal Tracking of Acute Myeloid Leukemia Stem Cells in Xenografts and Patients By microRNA Reporters and Single Cell RNA Sequencing**.
+In *Blood*, Vol 134 (Supplement_1), p. 916, November 2019.
+[(Link)](https://doi.org/10.1182/blood-2019-131167)
+
+* Aurelien Jacob, Samuele Ferrari, Luisa Albano, Martina Fiumara, Valentina Vavassori, Davide Cittaro, Stefano Beretta, Dejan Lazarevic, Ivan Merelli, Luigi Naldini, Pietro Genovese.
+**Cell cycle "push-up" to boost targeted genome editing in hematopoietic stem cells**.
+In *HUMAN GENE THERAPY*, Vol. 30, no. 11, pp. A183-A183, 2019.
+
+* Anastasia Conti, Lucrezia della Volpe, Giulia Schiroli, Stefano Beretta, Ivan Merelli, Pietro Genovese, Luigi Naldini, Raffaella Di Micco.
+**Impact of DNA damage response activation in haematopoietic stem and progenitor cells upon gene-targeting**.
+In *HUMAN GENE THERAPY*, Vol. 29, no. 12, pp. A57-A57, 2018.
+
+* Giulia Schiroli, Samuele Ferrari, Aurelien Jacob, Anastasia Conti, Luisa Albano, Stefano Beretta, Ivan Merelli, Raffaella di Micco, Luigi Naldini, Pietro Genovese.
+**Single cell transcriptomic analysis of gene edited HSPC uncovers molecular targets to improve long-term cell repopulation ability**.
+In *HUMAN GENE THERAPY*, Vol. 29, no. 12, pp. A104-A104, 2018.
 
 * Stefano Beretta, Mauro Castelli, Ivo Gonçalves, Ivan Kel, Ivan Merelli.
 **A Logistic Model Tree Based Approach For eQTL Data Prediction Integration**.
