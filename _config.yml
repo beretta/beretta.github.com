@@ -29,3 +29,5 @@ author :
 #
 production_url : http://beretta.github.com
 
+
+theme: jekyll-theme-slate
