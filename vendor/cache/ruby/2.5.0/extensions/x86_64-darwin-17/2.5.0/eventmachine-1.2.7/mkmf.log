@@ -1,0 +1,12 @@
+"x86_64-apple-darwin13.4.0-clang -o conftest -I/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll/include/ruby-2.5.0/x86_64-darwin17 -I/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll/include/ruby-2.5.0/ruby/backward -I/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll/include/ruby-2.5.0 -I. -D_FORTIFY_SOURCE=2 -mmacosx-version-min=10.9 -I/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -I/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll/include -fdebug-prefix-map=/usr/local/miniconda/conda-bld/ruby_1570429193060/work=/usr/local/src/conda/ruby-2.5.7 -fdebug-prefix-map=/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll=/usr/local/src/conda-prefix -fno-common conftest.c  -L. -L/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll/lib -L. -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll/lib -L/Users/beretta.stefano1/Downloads/miniconda3/envs/jekyll/lib -fstack-protector -L/usr/local/miniconda/conda-bld/ruby_1570429193060/_build_env/lib/clang/4.0.1/lib     -lruby.2.5.7  -lpthread -lgmp -ldl -lobjc "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return 0;
+6: }
+/* end */
+
+package configuration for openssl is not found
