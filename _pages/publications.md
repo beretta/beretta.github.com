@@ -8,9 +8,20 @@ title: Publications
 
 ### Journals ###
 
+* **Modeling, optimization, and comparable efficacy of T cell and hematopoietic stem cell gene editing for treating hyper‐IgM syndrome**.<br>
+Valentina Vavassori, Elisabetta Mercuri, Genni E Marcovecchio, Maria C Castiello, Giulia Schiroli, Luisa Albano, Carrie Margulies, Frank Buquicchio, Elena Fontana, Stefano Beretta, Ivan Merelli, Andrea Cappelleri, Paola MV Rancoita, Vassilios Lougaris, Alessandro Plebani, Maria Kanariou, Arjan Lankester, Francesca Ferrua, Eugenio Scanziani, Cecilia Cotta‐Ramusino, Anna Villa, Luigi Naldini, Pietro Genovese.
+*EMBO Molecular Medicine*, Vol. 13:e13545, (2021).
+[(Link)](https://doi.org/10.15252/emmm.202013545)
+
+* **Hematopoietic stem cell function in β-thalassemia is impaired and is rescued by targeting the bone marrow niche**.<br>
+Annamaria Aprile, Alessandro Gulino, Mariangela Storto, Isabella Villa, Stefano Beretta, Ivan Merelli, Alessandro Rubinacci, Maurilio Ponzoni, Sarah Marktel, Claudio Tripodo, Maria Rosa Lidonnici, Giuliana Ferrari.
+*Blood*, Vol. 136(5):610–622, (2020).
+[(Link)](https://doi.org/10.1182/blood.2019002721)
+
 * **Efficient gene editing of human long-term hematopoietic stem cells validated by clonal tracking**.<br>
 Samuele Ferrari, Aurelien Jacob, Stefano Beretta, Giulia Unali, Luisa Albano, Valentina Vavassori, Davide Cittaro, Dejan Lazarevic, Chiara Brombin, Federica Cugnata, Anna Kajaste-Rudnitski, Ivan Merelli, Pietro Genovese, Luigi Naldini.
-*Nature Biotechnology*, (2020). [(Link)](https://doi.org/10.1038/s41587-020-0551-y)
+*Nature Biotechnology*, Vol. 38(11):1298-1308, (2020).
+[(Link)](https://doi.org/10.1038/s41587-020-0551-y)
 
 * **Overlap graphs and de Bruijn graphs: data structures for de novo genome assembly in the big data era**.<br>
 Raffaella Rizzi, Stefano Beretta, Murray Patterson, Yuri Pirola, Marco Previtali, Gianluca Della Vedova, Paola Bonizzoni.
