@@ -8,6 +8,16 @@ title: Publications
 
 ### Journals ###
 
+* **BAR-Seq clonal tracking of gene-edited cells**.<br>
+Samuele Ferrari, Stefano Beretta, Aurelien Jacob, Davide Cittaro, Luisa Albano, Ivan Merelli, Luigi Naldini, Pietro Genovese.
+*Nature Protocols*, In Press, (2021).
+[(Link)](https://doi.org/10.1038/s41596-021-00529-x)
+
+* **Premature senescence and increased oxidative stress in the thymus of Down Syndrome patients**.<br>
+Genni E Marcovecchio, Francesca Ferrua, Elena Fontana, Stefano Beretta, Marco Genua, Ileana Bortolomai, Anastasia Conti, Davide Montin, Maria Teresa Cascarano, Sonia Bergante, Veronica Doria, Alessandro Giamberti, Donato Amodio, Caterina Cancrini, Adriano Carotti, Raffaella Di Micco, Ivan Merelli, Marita Bosticardo, Anna Villa.
+*Frontiers in Immunology*, Vol. 12:1830, (2021).
+[(Link)](https://doi.org/10.3389/fimmu.2021.669893)
+
 * **Modeling, optimization, and comparable efficacy of T cell and hematopoietic stem cell gene editing for treating hyper‐IgM syndrome**.<br>
 Valentina Vavassori, Elisabetta Mercuri, Genni E Marcovecchio, Maria C Castiello, Giulia Schiroli, Luisa Albano, Carrie Margulies, Frank Buquicchio, Elena Fontana, Stefano Beretta, Ivan Merelli, Andrea Cappelleri, Paola MV Rancoita, Vassilios Lougaris, Alessandro Plebani, Maria Kanariou, Arjan Lankester, Francesca Ferrua, Eugenio Scanziani, Cecilia Cotta‐Ramusino, Anna Villa, Luigi Naldini, Pietro Genovese.
 *EMBO Molecular Medicine*, Vol. 13:e13545, (2021).
