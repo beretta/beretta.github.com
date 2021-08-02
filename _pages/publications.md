@@ -8,9 +8,14 @@ title: Publications
 
 ### Journals ###
 
+* **Oncogene-induced senescence in hematopoietic progenitors features myeloid restricted hematopoiesis, chronic inflammation and histiocytosis**.<br>
+Riccardo Biavasco, Emanuele Lettera, Kety Giannetti, Diego Gilioli, Stefano Beretta, Anastasia Conti, Serena Scala, Daniela Cesana, Pierangela Gallina, Margherita Norelli, Luca Basso-Ricci, Attilio Bondanza, Giulio Cavalli, Maurilio Ponzoni, Lorenzo Dagna, Claudio Doglioni, Alessandro Aiuti, Ivan Merelli, Raffaella Di Micco, Eugenio Montini.
+*Nature Communications*, Vol. 12, 4559, (2021).
+[(Link)](https://doi.org/10.1038/s41467-021-24876-1)
+
 * **BAR-Seq clonal tracking of gene-edited cells**.<br>
 Samuele Ferrari, Stefano Beretta, Aurelien Jacob, Davide Cittaro, Luisa Albano, Ivan Merelli, Luigi Naldini, Pietro Genovese.
-*Nature Protocols*, In Press, (2021).
+*Nature Protocols*, Vol. 16:2991-3025, (2021).
 [(Link)](https://doi.org/10.1038/s41596-021-00529-x)
 
 * **Premature senescence and increased oxidative stress in the thymus of Down Syndrome patients**.<br>
