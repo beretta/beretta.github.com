@@ -8,6 +8,11 @@ title: Publications
 
 ### Journals ###
 
+* **Integrated Multiomic Profiling Identifies the Epigenetic Regulator PRC2 as a Therapeutic Target to Counteract Leukemia Immune Escape and Relapse**.<br>
+Valentina Gambacorta, Stefano Beretta, Martina Ciccimarra, Laura Zito, Kety Giannetti, Angela Andrisani, Daniela Gnani, Lucia Zanotti, Giacomo Oliveira, Matteo Giovanni Carrabba, Davide Cittaro, Ivan Merelli, Fabio Ciceri, Raffaella di Micco, Luca Vago.
+*Cancer Discovery*, (2022).
+[(Link)](https://doi.org/10.1158/2159-8290.CD-21-0980)
+
 * **Oncogene-induced senescence in hematopoietic progenitors features myeloid restricted hematopoiesis, chronic inflammation and histiocytosis**.<br>
 Riccardo Biavasco, Emanuele Lettera, Kety Giannetti, Diego Gilioli, Stefano Beretta, Anastasia Conti, Serena Scala, Daniela Cesana, Pierangela Gallina, Margherita Norelli, Luca Basso-Ricci, Attilio Bondanza, Giulio Cavalli, Maurilio Ponzoni, Lorenzo Dagna, Claudio Doglioni, Alessandro Aiuti, Ivan Merelli, Raffaella Di Micco, Eugenio Montini.
 *Nature Communications*, Vol. 12, 4559, (2021).
