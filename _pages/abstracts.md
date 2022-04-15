@@ -8,9 +8,39 @@ title: Abstracts & Posters
 
 ### Abstracts ###
 
+* **Assessing Stealth and Sensed Base Editing in Human Hematopoietic Stem/Progenitor Cells**.<br>
+M. Fiumara, S. Ferrari, A. Omer, S. Beretta, L. Albano, I. Merelli, L. Naldini.
+In *Blood*, Vol 138 (Supplement_1), p. 3976, November 2021.
+[(Link)](https://doi.org/10.1182/blood-2021-147700)
+
+* **Therapy-Induced Senescence As an Anti-Cancer and Immune-Stimulatory Strategy**.<br>
+D. Gilioli, S. Fusco, K. Giannetti, V. Gambacorta, T. Tavella, C. Liberatore, S. Beretta, M. Schönlein, I. Merelli, F. Ciceri, L. Vago, C. A Schmitt, R. Di Micco.
+In *Blood*, Vol 138 (Supplement_1), p. 4419, November 2021.
+[(Link)](https://doi.org/10.1182/blood-2021-152618)
+
+* **Triggering P53 Activation and Trapping of Transcriptionally Active Recombinant AAV Sequences Are Inadvertent Consequences of HSC Genome Editing**.<br>
+S. Ferrari, A. Jacob, M. Laugel, V. Blouin, S. Beretta, V. Vavassori, L. Albano, I. Merelli, E. Ayuso, O. Adjali, M. Penaud-Budloo, P. Genovese, L. Naldini.
+In *MOLECULAR THERAPY*, Vol. 29, no. 4, pp. 95-96, 2021.
+
+* **Inducible Tumor-Targeted Interferon-alpha Gene Therapy Inhibits Glioblastoma Multiforme in Mouse Model without Adverse Systemic Effects**.<br>
+F. Birocchi, M. Cusimano, F. Rossari, S. Beretta, A. Ranghetti, M. Genua, R. Ostuni, S. Colombo, I. Merelli, P. Rancoita, B. Costa, A. Peter, N. Coltella, L. Naldini.
+In *MOLECULAR THERAPY*, Vol. 29, no. 4, pp. 57-58, 2021.
+
+* **Dissecting the Transcriptional and Epigenetic Landscape of hiPSC-Derived Neural Stem and Progenitor Cells: Implications for Cell Therapy Approaches**.<br>
+V. Meneghini, M. Luciani, C. Garsia, L. Petiti, I. Cifola, S. Beretta, I. Merelli, C. Peano, A. Miccio, A. Gritti.
+In *MOLECULAR THERAPY*, Vol. 29, no. 4, pp. 70, 2021.
+
+* **Gene-Based Immune Reprogramming Overcomes the Immunosuppressive Microenvironment of Liver Metastases and Enables Protective T Cell Responses**.<br>
+T. Kerzel, F. Pedica, S. Beretta, E. Scarmadella, T. Canu, R. Norata, L. Sergi Sergi, M. Genua, R. Ostuni, A. Kajaste-Rudnitski, A. Esposito, M. Oshima, F. Sanvito, M.L. Squadrito, L. Naldini.
+In *MOLECULAR THERAPY*, Vol. 29, no. 4, pp. 57, 2021.
+
 * **Clonal Tracking Uncovers Barriers and Validates New Strategies to Enhance Gene Editing in Human Hematopoietic Stem Cells**.<br>
 A. Jacob, S. Ferrari, S. Beretta, G. Unali, L. Albano, V. Vavassori, D. Cittaro, D. Lazarevic, C. Brombin, F. Cugnata, A. Kajaste-Rudnitski, I. Merelli, P. Genovese, L. Naldini.
 In *MOLECULAR THERAPY*, Vol. 28, no. 4, pp. 4-5, 2020.
+
+* **BAR-seq: a Novel Barcode Strategy to Track Clones in Human Edited Hematopoietic Stem Cells**.<br>
+S. Ferrari, A. Jacob, S. Beretta, D. Cittaro, L. Albano, G. Unali, V. Vavassori, D. Lazarevic, C. Brombin, F. Cugnata, A. Kajaste-Rudnitski, I. Merelli, P. Genovese, L. Naldini.
+In: *Research in Computational Molecular Biology (RECOMB)*, Italy, 2020.
 
 * **Integrated Epigenetic Profiling Identifies EZH2 As a Therapeutic Target to Re-Establish Immune Recognition of Leukemia Relapses with Loss of HLA Class II Expression**.<br>
 V. Gambacorta, D. Gnani, L. Zito, S. Beretta, L. Zanotti, O. Giacomo,  D. Cittaro, I. Merelli, F. Ciceri, R. Di Micco, L. Vago.
