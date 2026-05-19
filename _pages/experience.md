@@ -31,15 +31,6 @@ Since September 2023 I am a **Senior Bioinformatician** at the [San Raffaele Tel
 
 ---
 
-### Research Interests
-
-{: .text-justify}
-My research activity focuses on the development and analysis of efficient algorithms, particularly within the domain of bioinformatics. My core interests lie in the design and implementation of combinatorial algorithms tailored to address complex biological challenges. I am deeply engaged in biological sequence analysis and computational complexity theory, and I actively explore the application of machine learning and artificial intelligence to develop hybrid algorithms and AI-driven bioinformatics tools.
-
-A detailed overview of my scientific activities is provided in my [Curriculum Vitae (English).](/assets/files/CV-Beretta-Stefano.pdf)
-
----
-
 ### Scientific Organisation
 
 {: .text-justify}
