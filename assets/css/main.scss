@@ -139,6 +139,12 @@ h1, h2, h3, h4, h5, h6 {
     &::before { border-bottom-color: $border-color; }
   }
 
+  // Allow two-line nav labels (e.g. "Working Experience")
+  .visible-links a {
+    text-align: center;
+    line-height: 1.2;
+  }
+
   // Hamburger / overflow button
   button {
     background: rgba(56, 189, 248, 0.08);
