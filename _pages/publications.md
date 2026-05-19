@@ -8,6 +8,110 @@ title: Publications
 
 ### Journals ###
 
+* **Iron overload damages mitochondria and induces metabolic rewiring of hematopoietic stem cells towards glycolysis**.<br>
+Silvia Sighinolfi, Laura Cassina, Maria Rosa Lidonnici, Stefano Beretta, Davide Stefanoni, Mariangela Storto, Christina Mayerhofer, Trine A. Kristiansen, David T. Scadden, Ivan Merelli, Alessandra Boletta, Annamaria Aprile, Giuliana Ferrari.
+*Blood*, (2026).
+[(Link)](https://doi.org/10.1182/blood.2025031552)
+
+* **Development and characterization of a model of mucopolysaccharidosis type IVA for evaluating therapies targeting bone disease**.<br>
+Margherita Berti, Selene Ceriotti, Ludovica Santi, Gaia Alberti, Stefano Beretta, et al.
+*Disease Models & Mechanisms*, Vol. 19(2):dmm052540, (2026).
+
+* **TIGIT disruption rescues the antitumor activity of low avidity TCR-engineered T cells by increasing TCR signal strength**.<br>
+Martina Spiga, Alessia Potenza, Zulma Magnani, Stefano Beretta, Barbara Camisa, et al.
+*Nature Communications*, (2026).
+
+* **Molecular and phenotypic blueprint of human hematopoiesis links proliferation stress to stem cell aging**.<br>
+Emanuele Lettera, Luca Basso-Ricci, Edoardo Carsana, Kety Giannetti, Teresa Tavella, Luca Seffin, Giacomo Farina, Nicolò Gualandi, Pamela Quaranta, Elena Lo Furno, Guido Pacini, Lucrezia della Volpe, Stefano Beretta, Anastasia Conti, et al.
+*Journal of Experimental Medicine*, Vol. 223(2):e20251805, (2025).
+[(Link)](https://doi.org/10.1084/jem.20251805)
+
+* **A cross-talk established by tumor-targeted cytokines rescues CAR T cell activity and engages host T cells against glioblastoma in mice**.<br>
+Federico Rossari, Giorgia Alvisi, Melania Cusimano, Stefano Beretta, Filippo Birocchi, et al.
+*Science Translational Medicine*, Vol. 17(805):eado9511, (2025).
+
+* **Senescence and inflammation are unintended adverse consequences of CRISPR-Cas9/AAV6-mediated gene editing in hematopoietic stem cells**.<br>
+Anastasia Conti, Kety Giannetti, Federico Midena, Stefano Beretta, Nicolò Gualandi, et al.
+*Cell Reports Medicine*, Vol. 6(6), (2025).
+
+* **Spatiotemporal liver dynamics shape hepatocellular heterogeneity and impact in vivo gene engineering**.<br>
+Michela Milani, Francesco Starinieri, Stefano Beretta, Marco Monti, Cesare Canepari, et al.
+*Journal of Hepatology*, (2025).
+
+* **Tweaking lentiviral vector design balances efficacy and safety in liver-directed gene therapy for familial hypercholesterolemia**.<br>
+Cesare Canepari, Michela Milani, Sara Degl'Innocenti, Marco Monti, Monica Volpin, Stefano Beretta, et al.
+*Molecular Therapy*, (2025).
+
+* **Reprogramming liver metastasis-associated macrophages toward an anti-tumoral phenotype through enforced miR-342 expression**.<br>
+Chiara Bresesti, Eleonora Carito, Marco Notaro, Giovanna Giacca, Sara Breggion, Thomas Kerzel, Carl Mirko Mercado, Stefano Beretta, Marco Monti, Ivan Merelli, et al.
+*Cell Reports*, Vol. 44(5), (2025).
+
+* **In vivo armed macrophages curb liver metastasis through tumor-reactive T-cell rejuvenation**.<br>
+Marco Notaro, Maristella Borghetti, Chiara Bresesti, Giovanna Giacca, Thomas Kerzel, Carl Mirko Mercado, Stefano Beretta, Marco Monti, Ivan Merelli, et al.
+*Nature Communications*, Vol. 16(1):3471, (2025).
+
+* **Identification of hepatocyte-primed cholangiocytes in the homeostatic liver by in vivo lentiviral gene transfer to mice and non-human primates**.<br>
+Michela Milani, Francesco Starinieri, Anna Fabiano, Stefano Beretta, Tiziana Plati, Cesare Canepari, et al.
+*Cell Reports*, Vol. 44(3), (2025).
+
+* **Human iPSC-derived neural stem cells displaying radial glia signature exhibit long-term safety in mice**.<br>
+Marco Luciani, Chiara Garsia, Stefano Beretta, Ingrid Cifola, Clelia Peano, Ivan Merelli, Luca Petiti, Annarita Miccio, Vasco Meneghini, Angela Gritti.
+*Nature Communications*, Vol. 15(1):9433, (2024).
+[(Link)](https://doi.org/10.1038/s41467-024-53887-5)
+
+* **A p38 MAPK-ROS axis fuels proliferation stress and DNA damage during CRISPR-Cas9 gene editing in hematopoietic stem and progenitor cells**.<br>
+Lucrezia Della Volpe, Federico Midena, Roberta Vacca, Teresa Tavella, Laura Alessandrini, Giacomo Farina, Chiara Brandas, Elena Lo Furno, Kety Giannetti, Edoardo Carsana, Stefano Beretta, et al.
+*Cell Reports Medicine*, Vol. 5(11), (2024).
+
+* **Transcriptomic analysis of BM-MSCs identified EGR1 as a transcription factor to fully exploit their therapeutic potential**.<br>
+Ludovica Santi, Stefano Beretta, Margherita Berti, Evelyn Oliva Savoia, Laura Passerini, Marilena Mancino, Giada De Ponti, Gaia Alberti, Pamela Quaranta, Luca Basso-Ricci, et al.
+*Biochimica et Biophysica Acta (BBA) – Molecular Cell Research*, Vol. 1871(8):119818, (2024).
+
+* **VisualZoneR: A computational protocol to identify compartmental zones from single-cell spatial transcriptomics using R**.<br>
+Thomas Kerzel, Stefano Beretta, Luigi Naldini, Mario Leonardo Squadrito.
+*STAR Protocols*, Vol. 5:103196, (2024).
+[(Link)](https://doi.org/10.1016/j.xpro.2024.103196)
+
+* **Genotoxic effects of base and prime editing in human hematopoietic stem cells**.<br>
+Martina Fiumara, Samuele Ferrari, Attya Omer-Javed, Stefano Beretta, Luisa Albano, Daniele Canarutto, Angelica Varesi, Chiara Gaddoni, Chiara Brombin, Federica Cugnata, Erika Zonari, Matteo Maria Naldini, Matteo Barcella, Bernhard Gentner, Ivan Merelli, Luigi Naldini.
+*Nature Biotechnology*, Vol. 42:877–891, (2024).
+[(Link)](https://doi.org/10.1038/s41587-023-01915-4)
+
+* **In vivo macrophage engineering reshapes the tumor microenvironment leading to eradication of liver metastases**.<br>
+Thomas Kerzel, Giovanna Giacca, Stefano Beretta, Chiara Bresesti, Marco Notaro, Giulia Maria Scotti, Chiara Balestrieri, Tamara Canu, Miriam Redegalli, Federica Pedica, Marco Genua, Renato Ostuni, Anna Kajaste-Rudnitski, Masanobu Oshima, Giovanni Tonon, Ivan Merelli, Luca Aldrighetti, Paolo Dellabona, Nadia Coltella, Claudio Doglioni, Paola M.V. Rancoita, Francesca Sanvito, Luigi Naldini, Mario Leonardo Squadrito.
+*Cancer Cell*, Vol. 41:1892–1910.e10, (2023).
+[(Link)](https://doi.org/10.1016/j.ccell.2023.09.014)
+
+* **InCliniGene enables high-throughput and comprehensive in vivo clonal tracking toward clinical genomics data integration**.<br>
+Ivan Merelli, Stefano Beretta, Daniela Cesana, Alessandro Gennari, Fabrizio Benedicenti, Giulio Spinozzi, Daniele Cesini, Eugenio Montini, Daniele D'Agostino, Andrea Calabria.
+*Database*, Vol. 2023, (2023).
+[(Link)](https://doi.org/10.1093/database/baad069)
+
+* **The transcription factor HIF2α partakes in the differentiation block of acute myeloid leukemia**.<br>
+Daniela Magliulo, Matilde Simoni, Carolina Caserta, Cristina Fracassi, Serena Belluschi, Kety Giannetti, Raffaella Pini, Ettore Zapparoli, Stefano Beretta, Martina Uggè, et al.
+*EMBO Molecular Medicine*, Vol. 15, (2023).
+[(Link)](https://doi.org/10.15252/emmm.202317810)
+
+* **Lipid Nanoparticles Allow Efficient and Harmless Ex Vivo Gene Editing of Human Hematopoietic Cells**.<br>
+Valentina Vavassori, Samuele Ferrari, Stefano Beretta, Claudia Asperti, Luisa Albano, Andrea Annoni, Chiara Gaddoni, Angelica Varesi, Monica Soldi, Alessandro Cuomo, et al.
+*Blood*, (2023).
+[(Link)](https://doi.org/10.1182/blood.2022019333)
+
+* **Mesenchymal stromal cells improve the transplantation outcome of CRISPR-Cas9 gene-edited human HSPCs**.<br>
+Stefania Crippa, Anastasia Conti, Valentina Vavassori, Samuele Ferrari, Stefano Beretta, Silvia Rivis, Roberto Bosotti, Serena Scala, Stefania Pirroni, Raisa Jofra-Hernandez, et al.
+*Molecular Therapy*, Vol. 31(1):230–248, (2023).
+[(Link)](https://doi.org/10.1016/j.ymthe.2022.08.011)
+
+* **Choice of template delivery mitigates the genotoxic risk and adverse impact of editing in human hematopoietic stem cells**.<br>
+Samuele Ferrari, Aurelien Jacob, Daniela Cesana, Marianne Laugel, Stefano Beretta, Angelica Varesi, Giulia Unali, Anastasia Conti, Daniele Canarutto, Luisa Albano, et al.
+*Cell Stem Cell*, Vol. 29(10):1428–1444, (2022).
+[(Link)](https://doi.org/10.1016/j.stem.2022.09.001)
+
+* **Targeted inducible delivery of immunoactivating cytokines reprograms glioblastoma microenvironment and inhibits growth in mouse models**.<br>
+Filippo Birocchi, Melania Cusimano, Federico Rossari, Stefano Beretta, Paola MV Rancoita, Anna Ranghetti, Stefano Colombo, Barbara Costa, Peter Angel, Francesca Sanvito, et al.
+*Science Translational Medicine*, Vol. 14(653):eabl4106, (2022).
+[(Link)](https://doi.org/10.1126/scitranslmed.abl4106)
+
 * **Integrated Multiomic Profiling Identifies the Epigenetic Regulator PRC2 as a Therapeutic Target to Counteract Leukemia Immune Escape and Relapse**.<br>
 Valentina Gambacorta, Stefano Beretta, Martina Ciccimarra, Laura Zito, Kety Giannetti, Angela Andrisani, Daniela Gnani, Lucia Zanotti, Giacomo Oliveira, Matteo Giovanni Carrabba, Davide Cittaro, Ivan Merelli, Fabio Ciceri, Raffaella di Micco, Luca Vago.
 *Cancer Discovery*, (2022).
@@ -197,6 +301,33 @@ In *A.-H. Dediu et al. (Eds.): LATA 2014*, LNCS 8370, pp. 126-137, (2014).
 Stefano Beretta, Paola Bonizzoni, Gianluca Della Vedova, Raffaella Rizzi.
 In *Bioinformatics and Biomedicine (BIBM), 2012 IEEE International Conference*, Philadelphia PA, USA, Oct. 4-7, (2012).
 [(Link)](http://dx.doi.org/10.1109/BIBM.2012.6392734) [(Presentation)](./data/Talk_BIBM_2012.pdf)
+
+---
+
+### Books and Chapters ###
+
+* **Graph Isomorphism**.<br>
+Riccardo Dondi, Stefano Beretta, et al.
+In *Encyclopedia of Bioinformatics and Computational Biology*, Vol. 2, pp. 509–517. Elsevier, (2025).
+
+* **Graph Algorithms**.<br>
+Riccardo Dondi, Stefano Beretta, et al.
+In *Encyclopedia of Bioinformatics and Computational Biology*, Vol. 2, pp. 518–531. Elsevier, (2025).
+
+* **Graph theory and definitions**.<br>
+Stefano Beretta, Luca Denti, Marco Previtali.
+In *Encyclopedia of Bioinformatics and Computational Biology: ABC of Bioinformatics*, Vol. 1, pp. 922–927. Elsevier, (2019).
+[(Link)](https://doi.org/10.1016/B978-0-12-809633-8.20421-4)
+
+* **Network properties**.<br>
+Stefano Beretta, Luca Denti, Marco Previtali.
+In *Encyclopedia of Bioinformatics and Computational Biology: ABC of Bioinformatics*, Vol. 1, pp. 928–932. Elsevier, (2019).
+[(Link)](https://doi.org/10.1016/B978-0-12-809633-8.20422-6)
+
+* **Algorithms for strings and sequences: Pairwise alignment**.<br>
+Stefano Beretta.
+In *Encyclopedia of Bioinformatics and Computational Biology: ABC of Bioinformatics*, Vol. 1, pp. 22–29. Elsevier, (2019).
+[(Link)](https://doi.org/10.1016/B978-0-12-809633-8.20317-8)
 
 ---
 
