@@ -54,7 +54,6 @@ author:
   avatar           : "/assets/images/ProfilePhoto.jpg"
   bio              : "Senior Bioinformatician<br>TIGET — San Raffaele, Milan"
   location         : "Milan, Italy"
-  email            : "ste.beretta@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
