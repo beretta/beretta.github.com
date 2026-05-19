@@ -2,9 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Abstract & Posters"
-    url: /abstracts/
-  - title: "Software"
-    url: /software/
   - title: "Education"
     url: /education/
+  - title: "Software"
+    url: /software/
